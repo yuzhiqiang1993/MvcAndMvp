@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVPDemo</string>
+    <string name="title_activity_mvc1">Mvc1Activity</string>
+</resources>
